@@ -29,7 +29,7 @@ This project is to be treated experimental and exploratory. Let's keep the dialo
 
 ## Details
 
-Solid's compiler is based on a Babel transformer called [babel-preset-solid](https://www.npmjs.com/package/babel-preset-solid). It's based on the critical work done by Ryan C. on [dom-expressions](https://github.com/ryansolid/dom-expressions) which is the critical piece.
+Solid's compiler is based on a Babel transformer called [babel-preset-solid](https://www.npmjs.com/package/babel-preset-solid). It's based on the critical work done by Ryan C. on [dom-expressions](https://github.com/ryansolid/dom-expressions) which is the critical piece. A lot of the experiments in this package should aim to build onto these dependencies. Since those are core managed we need to treat them as lower level dependencies if possible or define a way to enhance them progressively.
 
 ## General Improvements vs Radical
 
