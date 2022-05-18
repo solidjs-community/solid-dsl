@@ -1,5 +1,5 @@
 <p>
-  <img width="100%" src="https://assets.solidjs.com/banner?type=DSL Experiments&background=tiles&project=%20" alt="solid-dsl">
+  <img width="100%" src="https://assets.solidjs.com/banner?type=DSL%20Experiments&background=tiles&project=%20" alt="solid-dsl">
 </p>
 
 # Solid DSL Experiments
