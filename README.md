@@ -6,6 +6,8 @@
 
 This library has been created to house experimentation and discussion of current and future DSL related topics. Solid is firmly rooted in JSX and we intend to have it remain with JSX so that it may continue benefiting from the large JSX ecosystem. However this shouldn't stop the community from embarking on explorations relating to augmenting/enhancing and iterating on JSX improvements.
 
+**Note: **Most of the work on this repo is related to conversations in the [Discussion tab](https://github.com/solidjs-community/solid-dsl/discussions).
+
 ## Stages
 
 We'd like to organize this exploration process into 3 general stages:
